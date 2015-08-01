@@ -8,5 +8,6 @@ class Fixnum
       return 'pong'
     else
       return
+    end
   end
 end
